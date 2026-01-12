@@ -1,0 +1,12 @@
+{
+    "display_name": "TheHuntress",
+    "name": "TheHuntress",
+    "version": "1.0",
+    "author": "robot",
+    "description": "聊天视觉特效",
+    "loading_order": 101,
+    "js": "index.js",
+    "homePage": "https://github.com/botdotwaitok/TheHuntress",
+    "requires": [],
+    "optional": []
+}
