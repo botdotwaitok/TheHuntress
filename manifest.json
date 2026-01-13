@@ -1,12 +1,12 @@
 {
-    "display_name": "TheHuntress",
-    "name": "TheHuntress",
+    "display_name": "ThePig",
+    "name": "ThePig",
     "version": "1.0",
     "author": "robot",
-    "description": "聊天视觉特效",
+    "description": "token超限提醒",
     "loading_order": 101,
     "js": "index.js",
-    "homePage": "https://github.com/botdotwaitok/TheHuntress",
+    "homePage": "https://github.com/botdotwaitok/ThePig",
     "requires": [],
     "optional": []
 }
